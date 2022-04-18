@@ -7,3 +7,4 @@
 5-execute grants file owner access to execute
 6-multiple_permissions grants multiple owners execute permission to file
 7-everybody grants everyone execute permission to file
+8-James_Bond grants only others permissions to file
